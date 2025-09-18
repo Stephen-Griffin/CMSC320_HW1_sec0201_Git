@@ -1,0 +1,4 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to many fields. One particular example is Machine Learning. Data preprocessing, pruning, etc. is extremely important when training models.
+Data science is the study of how to prepare, understand, and distribute such information.
