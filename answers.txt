@@ -13,3 +13,8 @@ Data science is the study of how to prepare, understand, and distribute such inf
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merge commits combine history, keeping context from both works. Rebasing rewrites history, applying changes on top (linear history is the best!). 
+
+
+Q4: What are you looking forward to this semester?
+
+Answer: I am looking forward to learning pandas and NLP, brushing up on SQL, and refreshing my Machine Learning skills.  
