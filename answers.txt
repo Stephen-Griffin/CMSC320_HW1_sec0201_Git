@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: We might consider using Git for version control. Git is the industry standard for software development in terms of version control. It allows us to create
+what is known as history. This way, if something goes wrong, we can track back to a previous step!
