@@ -2,3 +2,9 @@ Q1: Why might we consider using Git?
 
 Answer: We might consider using Git for version control. Git is the industry standard for software development in terms of version control. It allows us to create
 what is known as history. This way, if something goes wrong, we can track back to a previous step!
+
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to many fields. One particular example is Machine Learning. Data preprocessing, pruning, etc. is extremely important when training models.
+Data science is the study of how to prepare, understand, and distribute such information.
